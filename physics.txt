@@ -1,4 +1,4 @@
-Geo-potential Altitude above Sea Level(m), Density- ρ -(kg/m3), 
+Altitude, Density, 
 -1000, 1.347
 0, 1.225
 1000, 1.112
