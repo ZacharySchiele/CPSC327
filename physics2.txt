@@ -1,4 +1,4 @@
-Altitude, Density, 
+Altitude, Density
 -1000, 1.347
 0, 1.225
 1000, 1.112
